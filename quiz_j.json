@@ -92,6 +92,15 @@
                 "optionC": "A constructor may be declared private",
                 "optionD": "All of the above",
                 "correctAns": "All of the above"
+            },
+             {
+                "title": "For Testing purpose ?",
+                "no": 11,
+                "optionA": "A constructor must have the same name as the class it is declared within.",
+                "optionB": "A constructor is used to create objects.",
+                "optionC": "A constructor may be declared private",
+                "optionD": "All of the above",
+                "correctAns": "All of the above"
             }
             
         ]
